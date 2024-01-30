@@ -1,0 +1,6 @@
+openai
+requests
+impacket
+numpy
+google
+#difflib
