@@ -1,4 +1,8 @@
-# Bluesniff
+# Bluesniff (Spanish)
+
+<h6><a href="https://github.com/mrx04programmer/Bluesniff/blob/main/README-IN.md">For README in English click here 🇺🇸</a></h6>
+
+README-IN.md
 Herramienta orientada a pentesting en la zona bluetooth.
 
 ### Pre-Requisitos
